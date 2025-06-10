@@ -3,7 +3,7 @@ An exercise to learn about object in JavaScript. ✅
 
 ```javascript 
 
-let studentInfo = {
+const studentInfo = {
    id: 34527,
    name: "Shivraj Kumar",
    dob: "24-05-2002",
