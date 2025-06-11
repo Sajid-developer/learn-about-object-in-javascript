@@ -9,3 +9,5 @@ const studentInfo = {
    address: "New Delhi, India"
 };
 
+console.log(studentInfo.name);
+
