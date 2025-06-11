@@ -10,4 +10,3 @@ const studentInfo = {
 };
 
 console.log(studentInfo.name);
-
